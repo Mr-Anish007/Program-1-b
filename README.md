@@ -11,9 +11,11 @@ Write a C program to read A values and check whether the value is greater than a
 2. Declare an integer variable to store the input value.
 3. Read the integer value from the user using the scanf function.
 4. Check if the value is greater than or equal to 100.
-    a. If true, print "The Value is greater than or equal to 100".
+
+   a. If true, print "The Value is greater than or equal to 100".
+
     b. If false, do nothing (or skip printing).
-5. End the program.
+6. End the program.
 ## PROGRAM:
 ```
 #include <stdio.h>
